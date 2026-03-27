@@ -18,73 +18,46 @@ migrate_working_dir/
 *.iws
 .idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
+# VS Code (uncomment if you want to exclude)
+# .vscode/
 
 # Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
 .dart_tool/
-.flutter-plugins-dependencies
 .pub-cache/
-.pub/
-/build/
-/coverage/
+.flutter-plugins-dependencies
+**/doc/api/
 
-# Symbolication related
-app.*.symbols
-
-# Obfuscation related
-app.*.map.json
-
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
-
-# Flutter build artifacts (large files)
+# Build artifacts (exclude from ALL projects)
 **/build/
-**/.dart_tool/
-**/pubspec.lock
+**/coverage/
 
-# Android build outputs (large)
+# Android build outputs
 **/android/app/build/
 **/android/.gradle/
-**/android/.idea/
 **/android/local.properties
-**/android/**/*.iml
 
-# iOS build outputs (large)
-**/ios/.symlinks/
+# iOS build outputs
 **/ios/Pods/
 **/ios/Podfile.lock
 **/ios/build/
-**/ios/Flutter/Flutter.podspec
 **/ios/Flutter/App.framework/
 **/ios/Flutter/engine/
 **/ios/Flutter/flutter_assets/
+**/ios/Flutter/.last_build_id
 
-# macOS desktop builds
+# Desktop builds
 **/macos/build/
 **/macos/Pods/
-**/macos/Podfile.lock
-
-# Windows desktop builds
 **/windows/build/
-**/windows/flutter/ephemeral/
-
-# Linux desktop builds
 **/linux/build/
 
 # Web builds
 **/web/build/
 
-# Testing
-**/coverage/
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
 
 # Environment files
 .env
 *.env
-
