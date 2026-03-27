@@ -1,0 +1,51 @@
+**/.dart_tool/
+**/build/
+**/pubspec.lock
+**/.flutter-plugins-dependencies
+/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.vscode/
+
+# Android generated files (for ALL projects)
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/.gradle/
+**/android/local.properties
+**/android/**/*.iml
+
+# iOS generated files (for ALL projects)
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/build/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/engine/
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/.last_build_id
+**/ios/.symlinks/
+
+# Desktop builds (for ALL projects)
+**/macos/build/
+**/windows/build/
+**/linux/build/
+
+# Web builds (for ALL projects)
+**/web/build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Metadata
+# **/.metadata
