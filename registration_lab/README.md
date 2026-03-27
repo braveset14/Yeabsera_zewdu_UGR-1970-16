@@ -1,17 +1,11 @@
 # registration_lab
 
-A new Flutter project.
+This application is a registration form that takes Full name,email and password and registers the user.
 
-## Getting Started
+--- Here is a picture of the running program;
+  ![img.png](img.png)
+  ![img_1.png](img_1.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---- Here is a picture of the widget tree;
+  ![photo_2026-03-27_21-21-57.jpg](photo_2026-03-27_21-21-57.jpg)
+  ![photo_2026-03-27_21-22-16.jpg](photo_2026-03-27_21-22-16.jpg)
