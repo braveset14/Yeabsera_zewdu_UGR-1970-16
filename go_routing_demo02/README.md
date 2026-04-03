@@ -5,3 +5,4 @@ This project uses go_router to navigate between homepage and detailspage and add
 ![img_1.png](img_1.png)
 ---here is the screenshot of the widget tree
 ![img_2.png](img_2.png)
+![img_3.png](img_3.png)
