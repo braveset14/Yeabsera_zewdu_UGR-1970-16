@@ -1,4 +1,4 @@
-# go_routing_demo1
+# go_routing_demo03
 
 This project uses go_router to navigate between homepage and detailspage it uses named routers.
 ---here is the screenshot of the running page
